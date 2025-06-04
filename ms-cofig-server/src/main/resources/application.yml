@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/ClaudioB12/Proyecto-Integrador.git # ruta del repositorio git
+          uri: https://github.com/vladimirqt233/Proyecto-Integrador.git # ruta del repositorio git
           searchPaths: config-data
           default-label: main
   security:
